@@ -1,0 +1,12 @@
+{
+  "name": "Return Class Repo",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    }
+  }
+}
